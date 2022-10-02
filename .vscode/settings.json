@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1%40deployment": "file:///home/oyamo/Vscodeprojects/kubernetes/python-kubectl/deployment.yaml"
+    }
+}
